@@ -1,4 +1,4 @@
 Github for Developers
 ========================
 
-Hi! Welcome to this learning repo.
+Hi! Welcome to this repo.
